@@ -2,14 +2,10 @@
 
 A RESTFUL API built with Ruby on Rails. It uses JWT to implement Authentication & Authorization.
 In this project, I built a fullstack application where users can access cars and it's featured amongst the least of cars available for hire. 
-The project serves as my final capstone project at Microverse. The repo for the client app can be accessed [here](https://github.com/acushlakoncept/car-rentals-client)
 
-## Live Link
-[API Home](https://cush-car.herokuapp.com)
-[ Client App](https://hire-a-car-client.herokuapp.com/)
 
-## Video Presentation
-[YouTube Link](https://www.youtube.com/watch?v=qC0jjU27ZnQ)
+
+
 ## Built With
 
 - Ruby v2.7.2
@@ -51,7 +47,7 @@ Postgres: >=9.5
 ### Setup
 
 ~~~bash
-$ git clone https://github.com/acushlakoncept/car-rental-api.git
+
 $ cd car-rental-api
 ~~~
 
@@ -107,26 +103,6 @@ Enjoy your newly deployed rails API
     rpsec 
 ```
 
-# Authors
 
-👤 **Uduak Essien**
-
-- Github: [@acushlakoncept](https://github.com/acushlakoncept/)
-- Twitter: [@acushlakoncept](https://twitter.com/acushlakoncept)
-- Linkedin: [acushlakoncept](https://www.linkedin.com/in/acushlakoncept/)
-
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgement
-[Microverse Inc](https://www.microverse.org/)
 
 
